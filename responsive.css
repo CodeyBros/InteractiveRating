@@ -1,0 +1,20 @@
+/* Container */
+.container {
+    height: 300px;
+    width: 300px;
+    margin: 200px auto;
+    border-radius: 25px;
+    padding: 10px 10px;
+}
+
+/* Heading */
+.container h1 {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+/* Paragrah */
+.container p {
+    font-size: 14px;
+    margin: 10px 0;
+}
